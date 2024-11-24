@@ -11,6 +11,7 @@ Right at the moment, the plan is to use the following:
 - Accelerometer (I used [this](https://www.amazon.com/dp/B01DK83ZYQ/ref=twister_B078SS8NQV?_encoding=UTF8&psc=1) one
 - 5v Red LED Strip Lighting (I used [this](https://www.amazon.com/KXZM-Powered-640LEDs-Brightness-Flexible/dp/B09XDHNKV3/ref=sr_1_6?crid=E4GKPUCCLMRU&dib=eyJ2IjoiMSJ9.HOIYbfqLYxU7CZV7Qv9pgD0V4UM_TjQf_GenN3G5rfs1kOopobVctOeV6N_1BXCOYPPkIW2Mlujch_vqALLMqlvXoP-30vtrzwFmymmjCoONKgcZDJlmVLPx5OSrmP4uFTd8PfyKMfI0A1pAf-15mcR7Sxol4aKSqhp2jzAfErkUwUQ21UvDCZ_XA4gfJcl1GVDtDO3b0tNGHjQ7C4ob5sstlhmNT0rDQObxYDXu7ADd720OD3TtuJDyYYCeOI7dinGKxfLRXPC585qV4McxOQQaZJTHbWZZc2SSkhXFnQU._tqigCIHi1PuJCQHl69XDPyfjVwFZuA9ErXhOKhVhrM&dib_tag=se&keywords=red%2Bstrip%2Bleds%2Bkxzm&qid=1732074740&sprefix=red%2Bstrip%2Bleds%2Bkxzm%2Caps%2C138&sr=8-6&th=1))
 - An adequate transitor (I used [this](https://www.mouser.com/datasheet/2/149/SS8050-117753.pdf?srsltid=AfmBOoorqu-bw4KbcArd56MowXUMRYe-p6QwGt4TR1D0hBtsJHZYhA3X) one)
+- 100ohm resistor or other properly calculated value
   
   
 ### Functionality:
